@@ -1,16 +1,43 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
+    "games": [
+      {
+          "id": 1,
+          "title": "Post 1",
+          "cards": [
+              {
+                  "text": "Drink one glass of water",
+                  "image": "https://ih1.redbubble.net/image.586848878.1081/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"
+              },
+              {
+                  "text": "girls drink",
+                  "image": "https://ih1.redbubble.net/image.586848878.1081/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"
+              },
+              {
+                  "text": "Boys drink",
+                  "image": "https://ih1.redbubble.net/image.586848878.1081/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "title": "Post 2",
+          "cards": [
+              {
+                  "text": "Drink one glass of water",
+                  "image": "https://ih1.redbubble.net/image.586848878.1081/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "title": "Post 3",
+          "cards": [
+              {
+                  "text": "Drink one glass of water",
+                  "image": "https://ih1.redbubble.net/image.586848878.1081/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"
+              }
+          ]
+      }
   ]
-}
+  }
+  
